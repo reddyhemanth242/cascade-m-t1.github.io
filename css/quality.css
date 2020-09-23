@@ -144,7 +144,62 @@ h1{
     margin-left: 55vw;
     margin-top: -17rem;
 }
+.part-3{
+    margin-left: 10%;
+   
+}
+.box-3{
+    display: flex;
+   
+}
+.box-3-text{
+    padding: 1rem 2rem;
+    height: 900px;
+    width: 700px;
+    background-color: #38ACED;
+    color: #fff;
+}
+.box-3-text-2{
+    padding: 1rem 2rem;
 
+    background-color: #253741;
+    height: 900px;
+    width: 700px;
+    color: #fff;
+}
+.box-3-text-3{
+    padding: 1rem 2rem;
+
+    background-color: #191970;
+    height: 900px;
+    width: 700px;
+    color: #fff;
+}
+
+.box-3-img-1{
+    height: 900px;
+    width: 700px;
+}
+.box-3-heading{
+    padding: 1rem ;
+    color: #fff;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 60px;
+    line-height: 61px;
+    
+}
+.box-3-para{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 125%;
+    letter-spacing: 0.02em;
+    padding: 1rem;
+    color: #FFFFFF;
+}
 @media only screen and (max-width :600px){
     
     .major-lines1{
